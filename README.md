@@ -1,4 +1,4 @@
-# IDA custom scripts
+# IDA Custom Scripts
 
 I will upload here some scripts I made for myself because I needed to do somethings to help my life while learning to use better this software.
 
